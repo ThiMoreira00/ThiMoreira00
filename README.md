@@ -61,7 +61,9 @@
 
 ###
 
-![ThiMoreira00's Stats](https://github-readme-stats-two-mu-81.vercel.app/api/top-langs?username=ThiMoreira00&layout=compact&langs_count=8&card_width=320&locale=pt-br)
-![ThiMoreira00's Streak](https://streak-stats.demolab.com/?user=ThiMoreira00&theme=dark&hide_border=true&mode=weekly&locale=pt_BR)
+<div align="center">
+  <img src="https://github-readme-stats-two-mu-81.vercel.app/api/top-langs?username=ThiMoreira00&layout=compact&langs_count=8&locale=pt-br&theme=dark&hide_border=true" alt="ThiMoreira00's Stats" height="200"  />
+  <img src="https://streak-stats.demolab.com/?user=ThiMoreira00&theme=dark&hide_border=true&mode=weekly&locale=pt_BR" alt="ThiMoreira00's Streak" height="200" />
+</div>
 
 ##
