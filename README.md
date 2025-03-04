@@ -25,7 +25,7 @@
 
 * 💻 Trabalhando na [FAETEC](https://www.faetec.rj.gov.br), como Estagiário em Análise e Desenvolvimento de Sistemas.
 * 📚 Graduando no <b>5° período</b> em Análise e Desenvolvimento de Sistemas, pela FAETERJ Rio de Janeiro.
-* ⚡ Nas horas vagas, costumo me divertir jogando e trabalhar em projetos pessoais. 🎮
+* ⚡ Nas horas vagas, costumo me divertir jogando e trabalhando em projetos pessoais. 🎮
 
 ###
 
@@ -63,7 +63,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-two-mu-81.vercel.app/api/top-langs?username=ThiMoreira00&layout=compact&langs_count=8&locale=pt-br&theme=dark&hide_border=true" alt="ThiMoreira00's Stats" height="200"  />
-  <img src="https://streak-stats.demolab.com/?user=ThiMoreira00&theme=dark&hide_border=true&mode=weekly&locale=pt_BR" alt="ThiMoreira00's Streak" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=ThiMoreira00&theme=dark&hide_border=true&mode=daily&locale=pt_BR" alt="ThiMoreira00's Streak" height="200" />
 </div>
 
 ##
