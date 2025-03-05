@@ -63,7 +63,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-two-mu-81.vercel.app/api/top-langs?username=ThiMoreira00&layout=compact&langs_count=8&locale=pt-br&theme=dark&hide_border=true" alt="ThiMoreira00's Stats" height="200"  />
-  <img src="https://streak-stats.demolab.com/?user=ThiMoreira00&theme=dark&hide_border=true&mode=daily&locale=pt_BR" alt="ThiMoreira00's Streak" height="200" />
+  <img src="https://github-readme-streak-stats-silk-one.vercel.app?user=ThiMoreira00&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="ThiMoreira00's Streak" height="200" />
 </div>
 
 ##
