@@ -23,8 +23,8 @@
 
 ###
 
-* 💻 Trabalhando na [FAETEC](https://www.faetec.rj.gov.br), como Estagiário em Análise e Desenvolvimento de Sistemas.
 * 📚 Graduando no <b>5° período</b> em Análise e Desenvolvimento de Sistemas, pela FAETERJ Rio de Janeiro.
+* 💻 Trabalhei na [FAETEC](https://www.faetec.rj.gov.br), como Estagiário em Análise e Desenvolvimento de Sistemas.
 * ⚡ Nas horas vagas, costumo me divertir jogando e trabalhando em projetos pessoais. 🎮
 
 ###
