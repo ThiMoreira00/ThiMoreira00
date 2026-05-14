@@ -1,17 +1,4 @@
 <h1>Oi! Eu sou o Thiago 👋</h1>
-<div>
-  <a href="https://www.linkedin.com/in/thiagomoreira00/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-  </a>
-  
-  <a href="https://discord.com/users/767597405117612053" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="35"/>
-  </a>
-</div>
-
-###
-
-
 
 ###
 
@@ -60,4 +47,4 @@
   <img src="https://github-readme-streak-stats-silk-one.vercel.app/?user=ThiMoreira00&theme=dark&hide_border=true&locale=pt_BR" alt="ThiMoreira00's Streak" height="200" />
 </div>
 
-##
+###
