@@ -33,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" width="40" alt="gimp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="40" width="40" alt="phpstorm logo" />
-
 </div>
 
 ###
@@ -48,3 +47,10 @@
 </div>
 
 ###
+
+<h3>📬 Contato</h3>
+
+Se quiser trocar uma ideia, falar sobre projetos ou oportunidades, sinta-se à vontade para me mandar uma mensagem.
+
+* <a href="https://linkedin.com/in/thiagomoreira00" target="_blank">https://linkedin.com/in/thiagomoreira00</a>
+* <a href="mailto:thi.moreira@outlook.com.br" target="_blank">thi.moreira@outlook.com.br</a>
